@@ -1,4 +1,4 @@
 git add .
-git commit -m "updated index.html"
+git commit -m "update"
 git push
 pause
